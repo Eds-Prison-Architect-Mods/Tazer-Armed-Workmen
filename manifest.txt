@@ -1,0 +1,9 @@
+
+Name                 "Tazer Armed Workmen"  
+Author               ItzEdInYourBed  
+Description          "Tired of your workmen getting killed? This mod is just for you! This mod makes workmen armed with tazers. If you have old workmen use the Arm Old Workmen around them and they will get tazers.\r\n\r\nPoast any suggestions in the description."  
+Version              1.0.1  
+IsTranslation        false  
+FileID               F587894376  
+UpdateTime           1452230285  
+SteamAuthor          A76561198140191052  

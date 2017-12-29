@@ -1,0 +1,31 @@
+
+BEGIN Object     
+    Name                 Workman  
+    Toughness            5.0000
+    Price                -500  
+    RenderDepth          2  
+    ViewRange            3
+    BlockedBy            Wall  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+    Sprite               Workman  
+    SpriteVariants       4  
+    Properties           Entity  
+    Properties           Staff  
+	Properties           Scripted  
+	Equipment            Tazer
+END
+
+BEGIN Object     
+    Name                 ChangeAllWorkmen  
+    Toughness            5.0000
+    Price                -1  
+    RenderDepth          2  
+    ViewRange            1  
+    Sprite               Workman
+    SpriteVariants       4  
+    Properties           Entity
+    Properties           Staff
+    Properties           DoesNotTire
+    Properties           Scripted
+END
